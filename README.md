@@ -1,7 +1,7 @@
 # kodluyoruzRepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-#Installation
+# Installation
 
 
 -Usage
