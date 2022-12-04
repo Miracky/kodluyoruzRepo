@@ -5,7 +5,6 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 git clone https://github.com/Miracky/kodluyoruzRepo.git
 
 # poqjr;dsf
-- dsaldjsa
 + ;flkdsajfal
 * lfdsajkfdskl/a
 / ;fkadsihnflksafad
