@@ -5,11 +5,19 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 git clone https://github.com/Miracky/kodluyoruzRepo.git
 
 # poqjr;dsf
+
+- f'ldsajfsad
+
 + ;flkdsajfal
-* lfdsajkfdskl/a
-/ ;fkadsihnflksafad
+ 
+* lfdsajkfdskl
+
+/ afkadsihnflksafad
+
 = fl;sdajfas
+
 ` d;slkjfadsm;lfa 
+
 : 'lsdakfjsalkdfafa
 ; kfjdashnf;kjsafda
 ' ;flidsahflkasfa
