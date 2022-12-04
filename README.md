@@ -16,12 +16,17 @@ git clone https://github.com/Miracky/kodluyoruzRepo.git
 
 = fl;sdajfas
 
-` d;slkjfadsm;lfa 
+"d;slkjfadsm;lfa 
 
 : 'lsdakfjsalkdfafa
+
 ; kfjdashnf;kjsafda
+
 ' ;flidsahflkasfa
+
 " f'doasjfsa;fa
+
 \ f'ldsjfnaskldfads
+
 | fkdsjahfnsdlkf.a
 
